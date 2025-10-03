@@ -1,0 +1,43 @@
+{
+  "name": "banking-core-platform",
+  "displayName": "Banking Core Platform",
+  "description": "Core banking system with account management, transactions, and compliance",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/banking-core-platform",
+  "tech": [
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "Kafka",
+    "Docker"
+  ],
+  "categories": [
+    "backend",
+    "fintech"
+  ],
+  "usecases": [
+    "fintech",
+    "enterprise"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "PCI-DSS",
+    "ACH/Wire",
+    "Ledger",
+    "KYC/AML",
+    "Audit Trail",
+    "Multi-tenant"
+  ],
+  "hasDemo": false,
+  "hasCLI": false,
+  "securityFeatures": [
+    "PCI-DSS",
+    "Encryption",
+    "Compliance"
+  ],
+  "lastUpdated": "2025-10-03"
+}
