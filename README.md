@@ -2,16 +2,16 @@
 
 Core banking system with account management, transactions, and compliance
 
-## 🎯 Features
+## Ships With
 
-- ✅ PCI-DSS
-- ✅ ACH/Wire
-- ✅ Ledger
-- ✅ KYC/AML
-- ✅ Audit Trail
-- ✅ Multi-tenant
+- PCI-DSS
+- ACH/Wire
+- Ledger
+- KYC/AML
+- Audit Trail
+- Multi-tenant
 
-## 🛠️ Tech Stack
+## Built With
 
 - Node.js
 - PostgreSQL
@@ -19,7 +19,7 @@ Core banking system with account management, transactions, and compliance
 - Kafka
 - Docker
 
-## 🚀 Quick Start
+## Setup
 
 ```bash
 # Clone the repository
@@ -35,19 +35,19 @@ cp .env.example .env
 npm run dev
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Fintech**
 - **Enterprise**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 
@@ -58,14 +58,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
